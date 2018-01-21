@@ -1,0 +1,5 @@
+C:\Development\Sandbox\ConsoleApplicationDynamicLinkedList\bin\Debug\ConsoleApplicationDynamicLinkedList.exe
+C:\Development\Sandbox\ConsoleApplicationDynamicLinkedList\bin\Debug\ConsoleApplicationDynamicLinkedList.pdb
+C:\Development\Sandbox\ConsoleApplicationDynamicLinkedList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Sandbox\ConsoleApplicationDynamicLinkedList\obj\x86\Debug\ConsoleApplicationDynamicLinkedList.exe
+C:\Development\Sandbox\ConsoleApplicationDynamicLinkedList\obj\x86\Debug\ConsoleApplicationDynamicLinkedList.pdb
